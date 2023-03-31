@@ -1,0 +1,54 @@
+.btn-blue {
+    background-color: rgb(134, 134, 162);
+    border: 1px solid rgb(104, 104, 123);
+    color: white;
+    font-weight: bold;
+    border-radius: 7px;
+    padding: 16px;
+    display: block;
+    text-align: center;
+    width: 80%;
+    margin: 24px auto;
+}
+
+.btn-blue:hover {
+    background-color: white;
+    color: grey;
+    transition: 0.4s;
+}
+
+.btn-bluegabytupues {
+    color: black;
+    background-color: white;
+    border: black;
+}
+
+.btn-bluejoke {
+    color: black;
+    background-color: white;
+    border: black;
+}
+.btn-blueallan { 
+    background-color: rgb(134, 134, 162);
+    border: 1px solid rgb(104, 104, 123);
+    color: white;
+    font-weight: bold;
+    border-radius: 7px;
+    padding: 16px;
+    display: block;
+    text-align: center;
+    width: 24%;
+    margin: 24px auto;
+}
+
+.btn-bluerubriques {
+    .list-inline>li {
+        display: inline;
+        margin: 0 48px;
+        border: 1px solid rgba(255, 255, 255, 0.5);
+        padding: 8px;
+        background-color: rgba(255, 255, 255, 0.5);
+        border-radius: 7px;
+        color: rgba(0, 0, 0, 0.6);
+}
+}

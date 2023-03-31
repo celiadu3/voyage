@@ -1,0 +1,22 @@
+.celia {
+background-image: url("../images/celia.jpg");
+height: 80vh;
+background-size: cover;
+background-position: center;
+color: white;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: center;
+padding-bottom: 36px;
+}
+
+.banner h1, .banner p {
+
+color: white
+}
+
+.celia .details {
+    text-align: center;
+    margin-bottom: 48px;
+}
